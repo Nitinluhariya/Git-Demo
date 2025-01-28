@@ -1,5 +1,4 @@
 # Git-Demo
 This is my first Git Repository.
 <br>
-Author - Nitin Luhariya
-
+Author - Nitin 143
